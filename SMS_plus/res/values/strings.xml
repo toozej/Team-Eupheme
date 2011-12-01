@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SMSplusActivity!</string>
+    <string name="app_name">SMSplus</string>
+    <string name="recipient">Recipient:</string>
+    <string name="password">Password:</string>
+    <string name="encrypt">Encrypt and Send</string>
+    <string name="decrypt">Decrypt and Read</string>
+    <string name="message">Message:</string>
+
+</resources>
